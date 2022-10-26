@@ -2,7 +2,7 @@
 <p align="center">One Of The World's Easiest, Most Powerful Pterodactyl Client Panels That Exist.</p>
 
 ## :hear_no_evil:  What's Yeliactyl?  
-<a href="https://github.com/Yeliactyl/Yeliactyl" target="_blank">Yeliactyl</a> Is One Of The Best Pterodactyl Control Panels That Exist. Making A Free Or Paid Host And Need A Way For Users To Sign Up, Earn Coins, Manage Servers? Try Out Yeliactyl. To Get Started, Scroll Down And Follow The Guide
+<a href="https://github.com/Yeliactyl-Client/Yeliactyl" target="_blank">Yeliactyl</a> Is One Of The Best Pterodactyl Control Panels That Exist. Making A Free Or Paid Host And Need A Way For Users To Sign Up, Earn Coins, Manage Servers? Try Out Yeliactyl. To Get Started, Scroll Down And Follow The Guide
 <br/><br/><br/>
 
 ## :star: What Features Are There?
@@ -48,4 +48,4 @@ $ sudo apt install -y python3-certbot-nginx
 Check Out Our [Discord Support](https://discord.gg/BG9TbEQep4)</br>
 <br/><br/><br/>
 
-<p align="center"><a href="https://github.com/Yeliactyl/Yeliactyl#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back To Top" height="29"/></a></p>
+<p align="center"><a href="https://github.com/Yeliactyl-Client/Yeliactyl#"><img src="http://randojs.com/images/backToTopButtonTransparentBackground.png" alt="Back To Top" height="29"/></a></p>
