@@ -3,7 +3,7 @@
 
 ## :hear_no_evil:  What's Yeliactyl?  
 <a href="https://github.com/Yeliactyl-Client/Yeliactyl" target="_blank">Yeliactyl</a> Is One Of The Best Pterodactyl Control Panels That Exist. Making A Free Or Paid Host And Need A Way For Users To Sign Up, Earn Coins, Manage Servers? Try Out Yeliactyl. To Get Started, Scroll Down And Follow The Guide
-A paid client aree wich cost £5 wich will have many feutures. Join the discord server of updates and release date.
+A paid client aree wich cost £5 wich will have many features. Join the discord server of updates and release date.
 <br/><br/><br/>
 
 ## :star: What Features Are There?
