@@ -32,7 +32,8 @@ All Features Of<a href="https://github.com/Yeliactyl/Yeliactyl" target="_blank">
   ```JavaScript
 //Step 01:
 Pull the docker image when released.
-
+```
+```
 //Step 02:
 Install nginx
 $ sudo apt install nginx
@@ -40,6 +41,7 @@ $ sudo apt install nginx
 Install certbot
 $ sudo apt install certbot
 $ sudo apt install -y python3-certbot-nginx
+```
 
 <br/><br/><br/>
 ## :clap:  Support
